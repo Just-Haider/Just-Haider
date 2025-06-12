@@ -1,27 +1,24 @@
 # 👋 Hey, I’m Haider
 
-Welcome to my GitHub! I'm a creative developer who loves building cool stuff — from interactive websites to Minecraft plugins 🚀
+Welcome to my GitHub! I'm a Web developer who loves building cool stuff :D
 
 ---
 
 ### 👀 I’m interested in:
-- Full-stack Web Development 🌐  
-- Minecraft Plugin Development ⚒️  
-- Game Design and Modding 🎮  
+- Full-stack Web Development 🌐 
 - 3D Web with WebGL & Three.js 🧊  
 
 ---
 
 ### 🌱 I’m currently learning:
 - Backend development (Node.js, Next.js)  
-- WebGL / 3D graphics  
-- Advanced Java for Minecraft  
+- WebGL / 3D graphics
 
 ---
 
 ### 💞️ I’m looking to collaborate on:
-- Minecraft plugins or server templates  
 - Website templates or portfolios  
+- Creative Websites
 - Anything fun and creative that involves code ✨  
 
 ---
@@ -30,7 +27,7 @@ Welcome to my GitHub! I'm a creative developer who loves building cool stuff —
 - 🌐 Website: [justhaider.site](https://justhaider.site)
 - 💬 Discord: `_justhaider`
 - 🖥️ GitHub: [@Just-Haider](https://github.com/Just-Haider)
-- 📧 Email: Coming soon 😉
+- 📧 Email: haider.personal.mail@gmail.com
 
 ---
 
