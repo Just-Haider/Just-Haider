@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a Web developer who loves building cool stuff :D
 
 ### 👀 I’m interested in:
 - Full-stack Web Development 🌐 
-- 3D Web with WebGL & Three.js 🧊  
 
 ---
 
@@ -24,11 +23,12 @@ Welcome to my GitHub! I'm a Web developer who loves building cool stuff :D
 ---
 
 ### 📫 How to reach me:
-- 🌐 Website: [justhaider.site](https://justhaider.site)
+- 💖 Portfolio: [justhaider.site](https://justhaider.site)
 - 💬 Discord: `_justhaider`
 - 🖥️ GitHub: [@Just-Haider](https://github.com/Just-Haider)
+- 🌐 NEURIX Studios: [NEURIX Studios](https://neurixstudios.site)
 - 📧 Email: haider.personal.mail@gmail.com
 
 ---
 
-> _"Code like there's no bug, test like there's only bugs."_ 💻🔥
+> _"Code like there's no bug, test like there's only bugs :3"_
